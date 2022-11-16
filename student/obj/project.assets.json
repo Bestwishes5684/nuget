@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "ipdz.2/2.2.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/ipdz.2.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/ipdz.2.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Nuget/1.1.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/Nuget.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Nuget.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "ipdz.2/2.2.2.2": {
+      "sha512": "eQyOgU9pcab9oCaJZHYoccUnJYWh4h8eD0Iguzi6272nVMEtIecS84Wf+PO+nYqxkic9qMMvgiTdXlGYNAwa2g==",
+      "type": "package",
+      "path": "ipdz.2/2.2.2.2",
+      "files": [
+        ".nupkg.metadata",
+        "License.txt",
+        "ipdz.2.2.2.2.2.nupkg.sha512",
+        "ipdz.2.nuspec",
+        "lib/net6.0-windows7.0/ipdz.2.dll"
+      ]
+    },
+    "Nuget/1.1.1.1": {
+      "sha512": "Gg0YvPk5kn3/XDgS+Ix8FmZd0g5+c8hut5qsqc+EMByDptqfhPlkJQQ0fUZ4WzQqdQ1lhdt0xpi4wdYYPI6zzw==",
+      "type": "package",
+      "path": "nuget/1.1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        "License.txt",
+        "lib/net6.0-windows7.0/Nuget.dll",
+        "nuget.1.1.1.1.nupkg.sha512",
+        "nuget.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Nuget >= 1.1.1.1",
+      "ipdz.2 >= 2.2.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BESTWISHES\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Новая папка (5)\\student\\student.csproj",
+      "projectName": "student",
+      "projectPath": "D:\\Новая папка (5)\\student\\student.csproj",
+      "packagesPath": "C:\\Users\\BESTWISHES\\.nuget\\packages\\",
+      "outputPath": "D:\\Новая папка (5)\\student\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\BESTWISHES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\BESTWISHES\\Desktop\\nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Nuget": {
+            "target": "Package",
+            "version": "[1.1.1.1, )"
+          },
+          "ipdz.2": {
+            "target": "Package",
+            "version": "[2.2.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

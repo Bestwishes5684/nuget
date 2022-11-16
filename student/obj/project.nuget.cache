@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZJxt6yW9CUUzS7L7kHe9eWXZGRq0HjH/dERTMwmdryBZ98H7GDejQoaDbfRL1rqHtcF2FhuueMjw2YxrGx5vA==",
+  "success": true,
+  "projectFilePath": "D:\\Новая папка (5)\\student\\student.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BESTWISHES\\.nuget\\packages\\ipdz.2\\2.2.2.2\\ipdz.2.2.2.2.2.nupkg.sha512",
+    "C:\\Users\\BESTWISHES\\.nuget\\packages\\nuget\\1.1.1.1\\nuget.1.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

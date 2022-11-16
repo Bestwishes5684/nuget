@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+	  <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <Author>Zadumin</Author>
+	  <Version>2.2.2</Version>
+	  <decscDescription>нагет</decscDescription>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <None Include="License\License.txt" Pack="true" PackagePath=""/>
+  </ItemGroup>
+		
+
+
+</Project>

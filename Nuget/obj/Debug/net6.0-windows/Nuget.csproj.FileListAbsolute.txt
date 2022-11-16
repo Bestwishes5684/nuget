@@ -1,0 +1,12 @@
+D:\Новая папка (5)\Nuget\bin\Debug\net6.0-windows\Nuget.deps.json
+D:\Новая папка (5)\Nuget\bin\Debug\net6.0-windows\Nuget.dll
+D:\Новая папка (5)\Nuget\bin\Debug\net6.0-windows\Nuget.pdb
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\Nuget.csproj.AssemblyReference.cache
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\Nuget.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\Nuget.AssemblyInfoInputs.cache
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\Nuget.AssemblyInfo.cs
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\Nuget.csproj.CoreCompileInputs.cache
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\Nuget.dll
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\refint\Nuget.dll
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\Nuget.pdb
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\ref\Nuget.dll

@@ -1,0 +1,12 @@
+D:\Новая папка (5)\Nuget\bin\Debug\net6.0-windows\ipdz.2.deps.json
+D:\Новая папка (5)\Nuget\bin\Debug\net6.0-windows\ipdz.2.dll
+D:\Новая папка (5)\Nuget\bin\Debug\net6.0-windows\ipdz.2.pdb
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\ipdz.2.csproj.AssemblyReference.cache
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\ipdz.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\ipdz.2.AssemblyInfoInputs.cache
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\ipdz.2.AssemblyInfo.cs
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\ipdz.2.csproj.CoreCompileInputs.cache
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\ipdz.2.dll
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\refint\ipdz.2.dll
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\ipdz.2.pdb
+D:\Новая папка (5)\Nuget\obj\Debug\net6.0-windows\ref\ipdz.2.dll

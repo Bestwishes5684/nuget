@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nuget</id>
+    <version>1.1.1.1</version>
+    <authors>Nuget</authors>
+    <license type="file">License.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Новая папка (5)\Nuget\bin\Debug\net6.0-windows\Nuget.dll" target="lib\net6.0-windows7.0\Nuget.dll" />
+    <file src="D:\Новая папка (5)\Nuget\License\License.txt" target="License.txt" />
+  </files>
+</package>
